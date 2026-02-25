@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "New York",
+  "base_artist": "Addison Rae",
+  "createdAt": "2026-02-25T03:11:15.477059Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Englishman In New York",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/01_Englishman_In_New_York_Sting.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "New York Town",
+      "artist": "Peter Rowan",
+      "has_synced": true,
+      "path": "select/02_New_York_Town_Peter_Rowan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All The Way To New York City",
+      "artist": "Rosie Thomas",
+      "has_synced": true,
+      "path": "select/03_All_The_Way_To_New_York_City_Rosie_Thomas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New York State of Mind",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/04_New_York_State_of_Mind_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "6PM In New York",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/05_6PM_In_New_York_Drake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Surprises (New York)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/06_No_Surprises_(New_York)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "New York 93 (Single Version)",
+      "artist": "Yaeji",
+      "has_synced": false,
+      "path": "select/07_New_York_93_(Single_Version)_Yaeji.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yeah! New York",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": false,
+      "path": "select/08_Yeah!_New_York_Yeah_Yeah_Yeahs.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "New York I Love You",
+      "artist": "LCD Soundsystem",
+      "has_synced": true,
+      "path": "select/09_New_York_I_Love_You_LCD_Soundsystem.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "New York Subway",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/10_New_York_Subway_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "New York Telephone Conversation",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/11_New_York_Telephone_Conversation_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Love New York",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/12_I_Love_New_York_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Vampires of New York",
+      "artist": "Marcy Playground",
+      "has_synced": false,
+      "path": "select/13_The_Vampires_of_New_York_Marcy_Playground.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "What New York Couples Fight About",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/14_What_New_York_Couples_Fight_About_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What New York Couples Fight About (feat Kurt Wagner)",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/15_What_New_York_Couples_Fight_About_(feat_Kurt_Wagner)_Morcheeba.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "New York",
+      "artist": "Addison Rae",
+      "has_synced": false,
+      "path": "select/pl_01_New_York_Addison_Rae.txt"
+    }
+  ]
+}
